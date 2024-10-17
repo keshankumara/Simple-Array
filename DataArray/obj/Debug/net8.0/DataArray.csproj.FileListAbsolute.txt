@@ -1,0 +1,14 @@
+E:\C#\0.1\DataArray\DataArray\bin\Debug\net8.0\DataArray.exe
+E:\C#\0.1\DataArray\DataArray\bin\Debug\net8.0\DataArray.deps.json
+E:\C#\0.1\DataArray\DataArray\bin\Debug\net8.0\DataArray.runtimeconfig.json
+E:\C#\0.1\DataArray\DataArray\bin\Debug\net8.0\DataArray.dll
+E:\C#\0.1\DataArray\DataArray\bin\Debug\net8.0\DataArray.pdb
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.AssemblyInfoInputs.cache
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.AssemblyInfo.cs
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.csproj.CoreCompileInputs.cache
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.dll
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\refint\DataArray.dll
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.pdb
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\DataArray.genruntimeconfig.cache
+E:\C#\0.1\DataArray\DataArray\obj\Debug\net8.0\ref\DataArray.dll
